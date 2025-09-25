@@ -484,7 +484,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/rag-guardrails-integration/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/rag-guardrails-integration/discussions)
-- **Email**: support@yourorganization.com
 
 ## 🙏 Acknowledgments
 
@@ -500,7 +499,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{rag_guardrails_2025,
   title={RAG-Guardrails Integration for AI Content Control},
-  author={[Author Names]},
+  author={[Rakesh More]},
   journal={International Conference on Artificial Intelligence},
   year={2025},
   pages={1--18}
